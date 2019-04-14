@@ -1,6 +1,6 @@
 /* UNIVERSIDADE FEDERAL DE SANTA CATARINA
  * Prof. Wyllian Bezerra da Silva 
-   Fonte: http://CodingForSpeed.com 
+   Adaptado de: http://CodingForSpeed.com 
 */
 #include <stdio.h>
 #include <unistd.h> // para a função usleep
